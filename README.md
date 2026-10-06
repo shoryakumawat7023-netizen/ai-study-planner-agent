@@ -136,51 +136,51 @@ The application follows this workflow:
 
 Student Goals
 
-&#x20;    |
+&#x20;     |
 
-&#x20;    v
+&#x20;     v
 
 Study Constraints
 
-&#x20;    |
+&#x20;     |
 
-&#x20;    v
+&#x20;     v
 
 AI Planning Agent
 
-&#x20;    |
+&#x20;     |
 
-&#x20;    v
+&#x20;     v
 
 Topic Prioritization
 
-&#x20;    |
+&#x20;     |
 
-&#x20;    v
+&#x20;     v
 
 Time Allocation
 
-&#x20;    |
+&#x20;     |
 
-&#x20;    v
+&#x20;     v
 
 Day-wise Task Generation
 
-&#x20;    |
+&#x20;     |
 
-&#x20;    v
+&#x20;     v
 
 Study Plan
 
-&#x20;    |
+&#x20;     |
 
-&#x20;    v
+&#x20;     v
 
-Task Completion \& Progress
+Task Completion and Progress
 
-&#x20;    |
+&#x20;     |
 
-&#x20;    v
+&#x20;     v
 
 Plan Regeneration
 
