@@ -128,59 +128,23 @@ The generated study plan can be downloaded for later use.
 
 
 
-The application follows this workflow:
+The application follows a simple agentic workflow:
 
 
 
-```text
+1\. Student enters study goals.
 
-Student Goals
+2\. Student provides study constraints such as duration, available hours, and difficulty.
 
-&#x20;     |
+3\. AI Planning Agent analyzes the requirements.
 
-&#x20;     v
+4\. Topics are prioritized based on difficulty and requirements.
 
-Study Constraints
+5\. Available study time is allocated across topics.
 
-&#x20;     |
+6\. The AI generates day-wise study tasks.
 
-&#x20;     v
+7\. Student completes tasks and tracks progress.
 
-AI Planning Agent
-
-&#x20;     |
-
-&#x20;     v
-
-Topic Prioritization
-
-&#x20;     |
-
-&#x20;     v
-
-Time Allocation
-
-&#x20;     |
-
-&#x20;     v
-
-Day-wise Task Generation
-
-&#x20;     |
-
-&#x20;     v
-
-Study Plan
-
-&#x20;     |
-
-&#x20;     v
-
-Task Completion and Progress
-
-&#x20;     |
-
-&#x20;     v
-
-Plan Regeneration
+8\. If requirements change, the plan can be regenerated.
 
